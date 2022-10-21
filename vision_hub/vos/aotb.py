@@ -18,7 +18,7 @@ from utils import masked_average_pooling
 
 
 
-from utils.checkpoint import load_network
+# from utils.checkpoint import load_network
 from networks.models import build_vos_model
 from networks.engines import build_engine
 
